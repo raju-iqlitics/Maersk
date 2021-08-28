@@ -4,14 +4,8 @@ Created on Thu Aug 26 17:06:49 2021
 
 @author: A1019089
 """
-import tkinter as tk
-from tkinter import filedialog
-from tkinter import *
-from PIL import ImageTk, Image
-from tkinter import PhotoImage
-import numpy as np
+
 import cv2
-import pytesseract as tess
 import os 
 
 path = os.getcwd()
