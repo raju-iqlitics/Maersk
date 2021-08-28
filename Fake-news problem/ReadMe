@@ -1,0 +1,9 @@
+ #####  Fake-News Detection 
+ Steps to check and run the code
+ 1. Run the fake_news_train.py
+ 2. For that we have to add train.csv I didn't upload training file as its size is big
+ 3. For infernece we have to run inference.py file
+ 4. output file for inference in model folder having name outputTest.csv
+ 5. we have training accuracy of: 
+#Accuracy: 97.77 %
+#Standard Deviation: 0.26
